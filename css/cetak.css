@@ -1,0 +1,28 @@
+body {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+img.sr {
+  margin-left: -2.9em;
+  margin-right: -2.9em;
+  padding-left: 0;
+  width: 6em;
+}
+.gariss {
+  width: 100%;
+  border-bottom: 1px solid black;
+  padding: 1px;
+}
+.garis {
+  width: 100%;
+  border-bottom: 5px solid black;
+  padding-top: 3px;
+}
+.garisc {
+  width: 9em;
+  border-bottom: 1.5px solid black;
+  margin-left: 24.9em;
+}
+.rr {
+  margin-left: 22.9em;
+}
